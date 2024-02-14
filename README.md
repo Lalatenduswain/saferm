@@ -1,4 +1,4 @@
-# Safe Remove On Linux Server
+# Safely Remove the Files On Linux Server
 
 This repository contains a Bash script that retrieves public and private IP addresses along with the hostname of a system. Additionally, it provides a triple confirmation prompt before executing potentially destructive commands like `rm -rf`. 
 
