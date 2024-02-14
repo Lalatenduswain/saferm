@@ -13,7 +13,9 @@ git clone https://github.com/Lalatenduswain/my-system-cron-job.git
 Run the script:
 
 ```bash
-./my-system-cron-job/script.sh
+cd safe_rm
+chmod +x safe_rm.sh
+./safe_rm.sh
 ```
 
 ## Donations
