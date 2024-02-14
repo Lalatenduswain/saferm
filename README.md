@@ -1,4 +1,4 @@
-# Safe Remove
+# Safe Remove On Linux Server
 
 This repository contains a Bash script that retrieves public and private IP addresses along with the hostname of a system. Additionally, it provides a triple confirmation prompt before executing potentially destructive commands like `rm -rf`. 
 
@@ -7,13 +7,13 @@ This repository contains a Bash script that retrieves public and private IP addr
 Clone this repository:
 
 ```bash
-git clone https://github.com/Lalatenduswain/saferm.git
+git clone https://github.com/Lalatenduswain/my-system-cron-job.git
 ```
 
 Run the script:
 
 ```bash
-./safe_rm.sh
+./my-system-cron-job/script.sh
 ```
 
 ## Donations
@@ -29,3 +29,4 @@ This script is provided as-is and may require modifications or updates based on 
 
 ## Author
 Lalatendu Swain | [GitHub](https://github.com/Lalatenduswain) | [Website](https://blog.lalatendu.info/)
+```
