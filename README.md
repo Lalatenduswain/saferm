@@ -13,7 +13,7 @@ git clone https://github.com/Lalatenduswain/saferm.git
 Run the script:
 
 ```bash
-cd safe_rm
+cd saferm
 chmod +x safe_rm.sh
 ./safe_rm.sh
 ```
