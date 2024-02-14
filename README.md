@@ -7,7 +7,7 @@ This repository contains a Bash script that retrieves public and private IP addr
 Clone this repository:
 
 ```bash
-git clone https://github.com/Lalatenduswain/my-system-cron-job.git
+git clone https://github.com/Lalatenduswain/saferm.git
 ```
 
 Run the script:
